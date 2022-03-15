@@ -3,7 +3,7 @@ PyQT5 app that colorize black &amp; white pictures using CNN(use pre-trained mod
 
 # Colorizor
 ## _Приложение для проекта Yandex licey_
-## _by Ковтунов Дмитрий_
+## _by Dath1s_
 [Dath1s](https://github.com/dath1s)
 
 
